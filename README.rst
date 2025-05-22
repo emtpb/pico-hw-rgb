@@ -8,3 +8,7 @@ This pcb is designed as an extension for the Raspberry Pi Pico microcontroller. 
 .. figure:: figures/PicoBoard.png
 
 Special thanks to Karl Dören for his work!
+
+Interactive BOM
+===============
+An interactive html BOM page with pcb layout and material placement can be found `here <https://emtpb.github.io/pico-hw-rgb/bom/ibom.html>`_.
